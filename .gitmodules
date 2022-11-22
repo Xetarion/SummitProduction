@@ -2,5 +2,5 @@
 	path = themes/cstate
 	url = https://github.com/cstate/cstate
 [submodule "themes/main"]
-	path = "themes/main"
+	path = themes/main
 	url = https://github.com/Xetarion/SummitProductionsTheme
