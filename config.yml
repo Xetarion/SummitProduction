@@ -146,7 +146,7 @@ params:
   enableCustomHTML: true
 
   categories:
-    - name: Container
+    - name: Uncategorized
       untitled: true
       closed: false
     - name: Main Servers
@@ -165,7 +165,9 @@ params:
   systems:
     - name: Website
       link: https://summitproductions.ml
+      category: Uncategorized
     - name: API
+      category: Uncategorized
     - name: Game Services
       category: Main Servers
     - name: Matchmaking
