@@ -157,6 +157,9 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
+    - name: Website
+      link: https://summitproductions.ml
+    - name: API
     - name: Game Services
       category: Main Servers
     - name: Matchmaking
@@ -177,12 +180,6 @@ params:
       category: Testing Servers   
     - name: Item Shop
       category: Testing Servers
-    - name: Website
-      description: The web frontend for the application.
-      category: Uncategorized
-      link: https://summitproductions.ml
-    - name: API
-      category: Uncategorized
 
   # What date format to use?
   #
