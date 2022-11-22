@@ -1,7 +1,7 @@
 ---
 title: Test issue
-date: 2022-11-22 16:00:50
-informational: false
+date: 2022-11-22 16:00:00
+resolved: false
 severity: down
 affected: 
   - Game Services
@@ -9,8 +9,6 @@ affected:
 section: issue
 ---
 
-*Investigating*
- Hello, This is a random test
+*Investigating* - Hello, This is a random test
 
-*Monitoring*
- Monitoring lol
+*Monitoring* - Monitoring lol
