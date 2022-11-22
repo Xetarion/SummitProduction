@@ -43,7 +43,7 @@
 
 # What is your status page called?
 # Shows up in the browser bar and meta tags
-title: Summit Productions Status
+title: Summit Productions
 
 # Should posts, which have a publish date
 # from the future, be built? Useful for
@@ -244,7 +244,7 @@ params:
   #
   # Default: `true`
   # BOOLEAN; `true`, `false`
-  useLargeHeaderDesign: false
+  useLargeHeaderDesign: true
 
   # Should incident history be separated
   # like in an archive view?
@@ -373,7 +373,7 @@ params:
   #
   # Default: `white`
   # STRING; `white`, `black`, or nothing
-  headerTextColor: black
+  headerTextColor: white
 
   # Google Analytics tracking code
   #
