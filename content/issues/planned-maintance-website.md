@@ -1,6 +1,7 @@
 ---
 title: Planned website maintenance
 date: 2022-11-25 15:00:00
+resolved: false
 severity: notice
 affected:
     - Website
