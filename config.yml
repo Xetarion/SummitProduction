@@ -153,7 +153,7 @@ params:
       description:
       closed: false
     - name: Testing Servers
-      closed: true
+      closed: false
 
   # These are your systems. Change them to
   # change the amount of components.
