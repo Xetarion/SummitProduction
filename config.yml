@@ -142,7 +142,13 @@ params:
   # 
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
+
+  enableCustomHTML: true
+
   categories:
+    - name: Container
+      untitled: true
+      closed: false
     - name: Main Servers
       description:
       closed: false
