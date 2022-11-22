@@ -244,7 +244,7 @@ params:
   #
   # Default: `true`
   # BOOLEAN; `true`, `false`
-  useLargeHeaderDesign: true
+  useLargeHeaderDesign: false
 
   # Should incident history be separated
   # like in an archive view?
@@ -303,7 +303,7 @@ params:
   # on the footer and meta tags.
   #
   # Default: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
-  description: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
+  description: Summit Productions Status
 
   # Tabs on homepage
   # Uncomment to enable.
@@ -373,7 +373,7 @@ params:
   #
   # Default: `white`
   # STRING; `white`, `black`, or nothing
-  headerTextColor: white
+  headerTextColor: black
 
   # Google Analytics tracking code
   #
