@@ -10,3 +10,5 @@ section: issue
 ---
 
 A maintenance is planned to modify the UI of the Website and optimize the code
+
+*Developing* - Development is starting
